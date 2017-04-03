@@ -1,0 +1,15 @@
+{
+  "name": "knex-101",
+  "version": "1.0.0",
+  "description": "Small exercise to orient the brain to the ways of knex and bookshelf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^0.12.9",
+    "pg": "^6.1.5"
+  }
+}
